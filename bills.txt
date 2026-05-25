@@ -1,0 +1,12 @@
+Bill for: John Doe
+Consultation: $50.0
+Medicine: $20.0
+Lab: $30.0
+Total: $100.0
+------------------------
+Bill for: John Doe
+Consultation: $50.0
+Medicine: $20.0
+Lab: $30.0
+Total: $100.0
+------------------------

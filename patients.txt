@@ -1,0 +1,3 @@
+23,afia anam,21,female,influenza
+P001,john Doe,30,Male,Flu
+P001,John Doe,30,Male,Flu
