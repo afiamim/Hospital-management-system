@@ -1,6 +1,6 @@
 # Hospital-management-system
-A complete Java oop project
-🏥 Hospital Management System
+
+#🏥 Hospital Management System
 
 A Java-based Hospital Management System designed to simplify and automate daily hospital operations. The application enables efficient management of patients, doctors, appointments, and billing through a structured, object-oriented approach.
 
